@@ -35,6 +35,7 @@ This project demonstrates the data cleaning process using Python, focusing on ha
    - The boxplot for x also shows many visible outliers ![Boxplot X](visualizations/boxplot_x.png)
    - In the boxplot for y, there are many outliers. ![Boxplot Y](visualizations/boxplot_y.png)
    - In the boxplot for z, there are many outliers. ![Boxplot Z](visualizations/boxplot_z.png)
+After identifying outliers in the x, y, and z columns using the Interquartile Range (IQR) method, I decided to handle these outliers by applying data transformation. This method helps reduce the impact of outliers on the analysis without removing any data points.
 ## Repository Structure
 - data/: Folder that contains the dataset (diamonds_hw.csv)
 - notebooks/: Folder that contains Jupyter Notebooks for each step of the assignment
