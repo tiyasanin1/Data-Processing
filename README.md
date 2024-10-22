@@ -32,9 +32,9 @@ This project demonstrates the data cleaning process using Python, focusing on ha
    - Perform encoding on the 'clarity' column.
 
 5. **Outlier Detection and Handling**: 
-   - Dari hasil boxplot x banyak outlier yang terlihat. ![Boxplot X](visualizations/boxplot_x.png)
-   - Pada boxplot y terdapat banyak outlier ![Boxplot Y](visualizations/boxplot_y.png)
-   - Pada boxplot z terdapat banyak outlier ![Boxplot Z](visualizations/boxplot_z.png)
+   - The boxplot for x also shows many visible outliers ![Boxplot X](visualizations/boxplot_x.png)
+   - In the boxplot for y, there are many outliers. ![Boxplot Y](visualizations/boxplot_y.png)
+   - In the boxplot for z, there are many outliers. ![Boxplot Z](visualizations/boxplot_z.png)
 ## Repository Structure
 - data/: Folder that contains the dataset (diamonds_hw.csv)
 - notebooks/: Folder that contains Jupyter Notebooks for each step of the assignment
