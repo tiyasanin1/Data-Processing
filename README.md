@@ -34,6 +34,7 @@ This project demonstrates the data cleaning process using Python, focusing on ha
 5. **Outlier Detection and Handling**: 
    - Visualize the outliers using boxplots and apply methods to address outliers.
 
-## Files in Repository
-- `index.ipynb`: Jupyter Notebook containing the code and explanations for the project.
-- `diamonds_hw.csv`: Dataset used for the project.
+## Repository Structure
+- data/: Folder that contains the dataset (diamonds_hw.csv)
+- notebooks/: Folder that contains Jupyter Notebooks for each step of the assignment
+- visualizations/: Folder that stores the visualizations (e.g., boxplots)
