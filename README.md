@@ -26,13 +26,13 @@ This project demonstrates the data cleaning process using Python, focusing on ha
    - Understand the dataset with `.describe()` and `.info()` methods.
 
 3. **Handling Missing Values**: 
-   - There are missing values in the 'carat' column amounting to 25%. The 'carat' column is positively skewed, so the missing values will be handled using the median
+   - There are missing values in the 'carat' column amounting to 25%. The 'carat' column is positively skewed, so the missing values will be handled using the median. ![Carat Distribution](visualizations/distribution_carat.png)
 
 4. **Encoding Categorical Data**: 
    - Perform encoding on the 'clarity' column.
 
 5. **Outlier Detection and Handling**: 
-   - ![boxplot X](visualizations/boxplot_x.png)
+   - ![Deskripsi Gambar](visualizations/boxplot_x.png)
 
 ## Repository Structure
 - data/: Folder that contains the dataset (diamonds_hw.csv)
